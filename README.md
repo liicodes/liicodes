@@ -7,7 +7,7 @@ information like a blackhole and I'm constantly seeking the next challenge to co
 ## 💻 Tech Stack
 - Front End: HTML, CSS
 - Languages: Python, JavaScript and Bash shell
-- Tools: Microsoft Office, Linux
+- Tools: Microsoft Office, Linux (Debian), ParrotOs
 - Skills: Web Development, Problem-Solving, Soft Skills
 
 ## 🏆 Achievements
