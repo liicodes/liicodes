@@ -10,9 +10,9 @@ information like a blackhole and I'm constantly seeking the next challenge to co
 - Tools: Microsoft Office, Linux (Debian), ParrotOs
 - Skills: Web Development, Problem-Solving, Soft Skills
 
-## 🏆 Achievements
-- Best in Computer Applications Technology 2022
-- Excellence in Coding Award
+## 🏆 Now Learning
+- GOLANG 🌀
+- RUBY ♨
 
 ## 🌐 Languages
 - Fluent in English, Afrikaans, and Xhosa
