@@ -11,7 +11,7 @@ information like a blackhole and I'm constantly seeking the next challenge to co
 - Skills: Web Development, Problem-Solving, Soft Skills
 
 ## 🏆 Now Learning
-- GOLANG 🌀
+- DJANGO 🚀
 - RUBY ♨
 
 ## 🌐 Languages
