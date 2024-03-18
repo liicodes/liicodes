@@ -6,9 +6,10 @@ information like a blackhole and I'm constantly seeking the next challenge to co
 
 ## 💻 Tech Stack
 - Front End: HTML, CSS
-- Languages: Python, JavaScript and Bash shell
+- Back end: Django
+- Languages: Python, JavaScript and Ruby
 - Tools: Microsoft Office, Linux (Debian), ParrotOs
-- Skills: Web Development, Problem-Solving, Soft Skills
+- Skills: Responsive Web Development, Problem-Solving, Soft Skills
 
 ## 🏆 Now Learning
 - DJANGO 🚀
@@ -19,6 +20,8 @@ information like a blackhole and I'm constantly seeking the next challenge to co
 
 ## 🎨 Hobbies
 - Poetry Writing (because why not)
+- Selling (i mean!)
+- Saas Startups (One day you'll use a tool i made)
 - Coding (yes, it's both a skill and a hobby!)
 - Studying (because knowledge is power)
 - Fitness Training (keeping the mind and body in sync)
@@ -32,8 +35,8 @@ Eager to take on new challenges, learn as I go, and contribute meaningfully to i
 - **LinkedIn**  [Click Here](https://www.linkedin.com/in/lona-leo-ntluka-3557b726b)
 - **GitHub**  [Click Here](https://www.github.com/liicodes)
 - **WhatsApp**  [Click Here](https://wa.me/+27721370443)
-<!--- **X**[Click Here](https://www.github.com/liicodes)
-- **Github**[Click Here](https://www.github.com/liicodes)---!>
+- **X**  [Click Here](https://www.twitter.com/liicodex23)
+- **Instagram**[Click Here](https://www.instagram.com/its_me_leo23)
 
 
 
