@@ -7,13 +7,13 @@ information like a blackhole and I'm constantly seeking the next challenge to co
 ## 💻 Tech Stack
 - Front End: HTML, CSS
 - Back end: Django
-- Languages: Python, JavaScript and Ruby
+- Languages: Python, JavaScript and GoLang
 - Tools: Microsoft Office, Linux (Debian), ParrotOs
 - Skills: Responsive Web Development, Problem-Solving, Soft Skills
 
 ## 🏆 Now Learning
 - DJANGO 🚀
-- RUBY ♨
+- GOLANG 💙
 
 ## 🌐 Languages
 - Fluent in English, Afrikaans, and Xhosa
