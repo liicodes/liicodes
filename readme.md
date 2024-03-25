@@ -31,7 +31,7 @@ Eager to take on new challenges, learn as I go, and contribute meaningfully to i
 
 ---
 
-##📧 Connect with me:
+## 📧 Connect with me:
 - **LinkedIn**  [Click Here](https://www.linkedin.com/in/lona-leo-ntluka-3557b726b)
 - **GitHub**  [Click Here](https://www.github.com/liicodes)
 - **WhatsApp**  [Click Here](https://wa.me/+27721370443)
